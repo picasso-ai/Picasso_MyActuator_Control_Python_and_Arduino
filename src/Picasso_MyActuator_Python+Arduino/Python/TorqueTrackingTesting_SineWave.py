@@ -6,7 +6,7 @@ main_script_path = 'Child_Scripts\main_writetocsv.py'
 live_plot_script_path = 'Child_Scripts\liveplot.py'
 
 # Define the file name
-file_name = 'C:/Users/taylo/OneDrive/Documents/Desktop/GradSchool/Lab/MyActuator Controllers/Tommy_MyActuator_PythonTeensy_Code/Data/23_07_19_TESTING.csv'
+file_name = 'ENTER YOUR FULL FILE PATH HERE'
 
 #Define the Amplitude of the sine wave sent to the motor
 amplitude = 0.0
