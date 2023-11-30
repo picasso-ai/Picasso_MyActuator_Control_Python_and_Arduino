@@ -4,4 +4,4 @@ This repo contains microcontroller control code for controlling MyActuator QDD a
 
 The repo also has a python header program that can be used to do some basic torque tracking to get you started. This code requires a serial (UART) connection between your microcontroller and the pc running the python program.
 
-The src file contains the driver files (written in c++) for basic motor contorl. We also have some examples of slightly friendlier microcontroller code written for particular models of motor.
+The src file contains the driver files (written in c++ with a header file for conversion to arduino) for basic motor control. We also have some examples of slightly friendlier microcontroller code written for particular models of motor.
