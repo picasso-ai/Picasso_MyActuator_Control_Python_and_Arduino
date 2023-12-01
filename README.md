@@ -1,4 +1,4 @@
-# Picasso_MyActuator_Control
+# Picasso_MyActuator_Control_Python_and_Arduino
 
 This repo contains microcontroller control code for controlling MyActuator QDD actuators. This microcontroller code is written for Arduino compatible boards, specifically the Teensy 4.1. We will be working on supporting more microcontrollers in future.
 
